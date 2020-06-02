@@ -40,6 +40,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+### `grunt build --force` and `gulp build`
+To automate all the tasks performed by the npm-package.json instead of manually doing it
+
+### `npm run lite`
+To deploy a live server to check the functioning of the project
+
 ## Supported Browsers
 
 By default, the generated project uses the latest version of React.
